@@ -58,7 +58,7 @@
 
 
 
-## <data>
+## data
 
 - android:scheme   指定数据的协议部分
 
